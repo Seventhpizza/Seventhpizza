@@ -1,7 +1,12 @@
 ### Welcome!
-I'm a creative coder working on data driven art projects looking to work in the industry on a more commercial level and delve into more complex data analysis problems.
+I am a creative coder who enjoys exploring the intersection of art and technology, with a particular focus on AV performance and interactivity using Python, Touchdesigner, and Ableton. I have a strong interest in data-driven art and enjoy experimenting with generative processes.
 
 Please get in touch if you are interested or have any questions about my projects or just want to chat!
+
+📽️[YouTube](https://www.youtube.com/channel/UCixFM0m2huAfIyIkEZXLelA)
+🔊[SoundCloud](https://soundcloud.com/mussshh)
+💰[Bandcamp](https://mussh.bandcamp.com/)
+📸[Instagram](https://www.instagram.com/mu_sshh/)
 
 <!--
 **Seventhpizza/Seventhpizza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
